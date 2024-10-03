@@ -1,6 +1,6 @@
 # CODE THEFT AUTO: Terraform Challenge (LEVEL ONE)
 
-Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 days, we'll dive into the world of Terraform with a fun and engaging Grand Theft Auto V theme. Whether you're a beginner just starting out or you've dabbled in Terraform and AWS before, this challenge is designed to test your skills, encourage learning through discovery, and, most importantly, have a blast doing it.
+Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 weeks, we'll dive into the world of Terraform with a fun and engaging Grand Theft Auto V theme. Whether you're a beginner just starting out or you've dabbled in Terraform and AWS before, this challenge is designed to test your skills, encourage learning through discovery, and, most importantly, have a blast doing it.
 
 ## 📅 Twitch Livestream Schedule (at 7:30 PM EST)
 
