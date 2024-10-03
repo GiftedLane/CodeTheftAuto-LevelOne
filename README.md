@@ -9,7 +9,7 @@ Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 days, 
 - **Week 3 (OCT 22, 2024): Turf Wars** - Building secure networks with VPCs, subnets, and security groups.
 - **Week 4 (OCT 29, 2024): The Big Score** - Scaling your infrastructure and cleaning up resources.
 
-Each day's challenge will be streamed live on Twitch, with interactive polls, Q&A sessions, and community engagement.
+Each week's challenge will be streamed live on Twitch, with interactive polls, Q&A sessions, and community engagement.
 
 ## 📚 Prerequisites
 
