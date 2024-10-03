@@ -4,7 +4,7 @@ Welcome to the first week of the CODE THEFT AUTO: Terraform Challenge! Today, we
 
 ## Objective
 
-Your mission today is to get familiar with Terraform and set up your very first Terraform project. You'll be deploying a "safe house" in AWS - a simple EC2 instance to give you a base in the cloud.
+Your mission this week is to get familiar with Terraform and set up your very first Terraform project. You'll be deploying a "safe house" in AWS - a simple EC2 instance to give you a base in the cloud.
 
 ## What You Will Learn
 
@@ -30,7 +30,7 @@ Ensure you have the following ready before you start:
 ---
 ### ⚡ Power-Up Option: Choose Your Cloud IDE
 
-**Turbocharge Your Setup**: Before diving into Terraform, select a Cloud IDE for a seamless start. Why fuss with local setups when you can go cloud from the get-go? Choose from **AWS Cloud9**, **GitHub Codespaces**, **Gitpod**, or **Visual Studio Code Online** based on what suits your style.
+**Turbocharge Your Setup**: Before diving into Terraform, select a Cloud IDE for a seamless start. Why fuss with local setups when you can go cloud from the get-go? Choose from **GitHub Codespaces**, **Gitpod**, or **Visual Studio Code Online** based on what suits your style.
 
 - **Quick Setup**: Each Cloud IDE offers a ready-to-code environment. (🤔 with Terraform and AWS CLI pre-installed ??)
 - **Anywhere, Anytime**: Jump into coding from any device, anywhere. All you need is a browser.
@@ -58,7 +58,7 @@ Stuck or have questions? Join the discussion in our [Patreon Community](https://
 
 ## Wrap Up
 
-Congratulations on completing Day 1 of the CODE THEFT AUTO: Terraform Challenge! You've just made your first step into the world of Infrastructure as Code (IaC) and have your very own "safe house" in AWS. Be ready for tomorrow, where we'll dive deeper into managing state with Terraform - vital for planning and executing more complex "heists" in the cloud.
+Congratulations on completing Week 1 of the CODE THEFT AUTO: Terraform Challenge! You've just made your first step into the world of Infrastructure as Code (IaC) and have your very own "safe house" in AWS. Be ready for next week, where we'll dive deeper into managing state with Terraform - vital for planning and executing more complex "heists" in the cloud.
 
 Remember, Los Santos wasn't built in a day, and neither is cloud mastery. Keep experimenting, exploring, and asking questions!
 
