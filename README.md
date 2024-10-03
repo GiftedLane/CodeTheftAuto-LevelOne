@@ -2,6 +2,14 @@
 
 Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 weeks, we'll dive into the world of Terraform with a fun and engaging Grand Theft Auto V theme. Whether you're a beginner just starting out or you've dabbled in Terraform and AWS before, this challenge is designed to test your skills, encourage learning through discovery, and, most importantly, have a blast doing it.
 
+## 📝 Detailed Walk-Through: How to Play Code Theft Auto
+
+If you're looking for a complete walk-through on how to play **Code Theft Auto**, check out my detailed guide on [**Dev.to**](https://dev.to/aws-builders/level-up-your-cloud-skills-join-the-code-theft-auto-challenge-3cjg). It covers everything you need to know to get started, explains the concepts step-by-step, and provides tips to master each challenge.
+
+👉 **Read the full article on Dev.to**: [How to Play Code Theft Auto](https://dev.to/aws-builders/level-up-your-cloud-skills-join-the-code-theft-auto-challenge-3cjg)
+
+Be sure to **continue reading this README** for further details on how to use the repo, access the weekly challenges, and join the Twitch streams and Patreon chat!
+
 ## 📅 Twitch Livestream Schedule (at 7:30 PM EST)
 
 - **Week 1 (OCT 8, 2024): Los Santos Bootcamp** - Introduction to Terraform, setting up your first Terraform project.
