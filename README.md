@@ -2,7 +2,7 @@
 
 Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 days, we'll dive into the world of Terraform with a fun and engaging Grand Theft Auto V theme. Whether you're a beginner just starting out or you've dabbled in Terraform and AWS before, this challenge is designed to test your skills, encourage learning through discovery, and, most importantly, have a blast doing it.
 
-## 📅 Twitch Livestream Schedule
+## 📅 Twitch Livestream Schedule (at 7:30 PM EST)
 
 - **Week 1 (OCT 8, 2024): Los Santos Bootcamp** - Introduction to Terraform, setting up your first Terraform project.
 - **Week 2 (OCT 15, 2024): The Vinewood Job** - Diving deeper into Terraform's state management and backend configurations.
