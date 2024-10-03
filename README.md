@@ -11,6 +11,12 @@ Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 days, 
 
 Each week's challenge will be streamed live on Twitch, with interactive polls, Q&A sessions, and community engagement.
 
+## 🎬 Watch the YouTube Playlist
+
+Need help or extra tutorials? We’ve created an [official YouTube playlist](https://youtube.com/playlist?list=PL6RfZggzDojQqB3QSm98doLgw65C_6EKs&si=K5OrEiAqoubJiBkF) just for this challenge! 🎥 Here, you’ll find how-to videos, updates, and more to help you along the way. Whether you’re stuck or want to learn some extra tips, the [playlist](https://youtube.com/playlist?list=PL6RfZggzDojQqB3QSm98doLgw65C_6EKs&si=K5OrEiAqoubJiBkF) has you covered.
+
+Check out the [Code Theft Auto Playlist](https://youtube.com/playlist?list=PL6RfZggzDojQqB3QSm98doLgw65C_6EKs&si=K5OrEiAqoubJiBkF) for all the videos!
+
 ## 📚 Prerequisites
 
 To participate in this challenge, you will need:
