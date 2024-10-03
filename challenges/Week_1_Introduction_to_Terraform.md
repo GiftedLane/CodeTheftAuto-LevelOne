@@ -1,6 +1,6 @@
 # Week 1: CODE THEFT AUTO: Terraform Challenge - Introduction to Terraform
 
-Welcome to the first day of the CODE THEFT AUTO: Terraform Challenge! Today, we're starting our adventure in the cloud infrastructure world with Terraform, setting the foundation just like beginning your journey in the vast city of Los Santos.
+Welcome to the first week of the CODE THEFT AUTO: Terraform Challenge! Today, we're starting our adventure in the cloud infrastructure world with Terraform, setting the foundation just like beginning your journey in the vast city of Los Santos.
 
 ## Objective
 
