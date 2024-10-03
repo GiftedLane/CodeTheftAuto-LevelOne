@@ -38,8 +38,8 @@ To participate in this challenge, you will need:
 
 This repository is structured to guide you through the challenge:
 
-- `/challenges`: START HERE each day! You'll find the challenge instructions for each day.
-- `/tips-and-tricks`: Detailed guides, starter code, and resources for each day's topics.
+- `/challenges`: START HERE each week! You'll find the challenge instructions for each week.
+- `/tips-and-tricks`: Detailed guides, starter code, and resources for each week's topics.
 - `/walkthroughs` (Optional): Peek into possible solutions after giving it your best shot.
 - `/assets`: Useful images and diagrams to aid your understanding.
 - `/scripts`: Handy scripts that might be useful throughout the challenge.
